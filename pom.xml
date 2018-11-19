@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>net.codejava.javaee</groupId>
 	<artifactId>HelloWorldJavaEE</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1-SNAPSHOT-child</version>
 	<packaging>war</packaging>
 	<name>Hello World Java EE</name>
 	<description>Learn Java JSP and Servlet</description>
